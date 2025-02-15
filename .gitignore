@@ -48,3 +48,10 @@ Icon?
 # Log files and temporary files
 *.log
 *.tmp
+
+# data sets
+data/
+
+# temp files
+temp/
+temp*.*
