@@ -49,9 +49,9 @@ Icon?
 *.log
 *.tmp
 
-# data sets
-data/
-
 # temp files
 temp/
 temp*.*
+
+# Ignore the data directory inside notebooks
+notebooks/data/
