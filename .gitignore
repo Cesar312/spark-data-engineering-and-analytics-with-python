@@ -28,6 +28,8 @@ env/
 venv/
 ENV/
 .venv/
+Pipfile
+Pipfile.lock
 
 # Jupyter Notebook checkpoints and metadata
 .ipynb_checkpoints/
