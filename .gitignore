@@ -53,5 +53,5 @@ Icon?
 temp/
 temp*.*
 
-# Ignore the data directory inside notebooks
-notebooks/data/
+# Ignore the data directory
+data/
