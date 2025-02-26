@@ -47,6 +47,9 @@ Icon?
 .Spotlight-V100
 .Trashes
 
+# Environment variables
+.env
+
 # Log files and temporary files
 *.log
 *.tmp
